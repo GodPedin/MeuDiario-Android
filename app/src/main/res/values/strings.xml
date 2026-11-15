@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Diário</string>
+    <string name="titulo_tela_inicial">Meu Diário Pessoal</string>
+    <string name="subtitulo_tela_inicial">Dias em que você registrou anotações</string>
+    <string name="secao_dias_anotados">Dias com Anotações no Diário</string>
+    <string name="texto_sem_anotacoes">Você ainda não anotou nada no seu diário.\nToque em \"+ Nova Página\" abaixo para criar sua primeira página!</string>
+    <string name="btn_nova_pagina">+ Nova Página no Diário</string>
+    <string name="hint_titulo_pagina">Título da página (ex: Um dia especial...)</string>
+    <string name="hint_conteudo_pagina">Querido diário, hoje aconteceu...</string>
+    <string name="btn_salvar_pagina">Salvar Página</string>
+    <string name="btn_excluir_pagina">Excluir</string>
+    <string name="btn_pagina_anterior">◀ Anterior</string>
+    <string name="btn_proxima_pagina">Próxima ▶</string>
+    <string name="btn_voltar_inicio">Voltar aos Dias</string>
+</resources>

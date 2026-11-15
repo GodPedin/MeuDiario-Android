@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de cores do Diário (fácil de personalizar no Android Studio) -->
+    <color name="cor_primaria">#5D4037</color>
+    <color name="cor_primaria_escura">#3E2723</color>
+    <color name="cor_secundaria">#8D6E63</color>
+    <color name="cor_destaque">#BF360C</color>
+
+    <color name="cor_fundo_app">#F7F3EB</color>
+    <color name="cor_folha_diario">#FFFDF8</color>
+    <color name="cor_borda_folha">#DFD5C5</color>
+    <color name="cor_linha_caderno">#EAE2D6</color>
+
+    <color name="cor_texto_principal">#2B2118</color>
+    <color name="cor_texto_secundario">#6E5D4F</color>
+    <color name="cor_badge_data">#EFE8DC</color>
+    <color name="cor_sucesso">#2E7D32</color>
+    <color name="cor_excluir">#C62828</color>
+</resources>
